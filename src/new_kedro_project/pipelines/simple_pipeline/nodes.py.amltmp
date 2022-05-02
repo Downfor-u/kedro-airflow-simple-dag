@@ -1,0 +1,5 @@
+# Prepare first node
+def return_greeting(parameters):
+    print(f"{parameters['greetings']}")
+
+    return "Hello"

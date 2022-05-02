@@ -1,0 +1,10 @@
+greeting:
+  type: text.TextDataSet
+  filepath: data/hello.txt
+  versioned: True
+
+
+greeting_kedro:
+  type: text.TextDataSet
+  filepath: data/hello_kedro.txt
+  versioned: True

@@ -1,0 +1,3 @@
+greeting:
+  type: text.TextDataSet
+  filepath: data/hello.txt
